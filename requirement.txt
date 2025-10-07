@@ -6,4 +6,6 @@ langchain
 llama-index
 haystack
 requests
+gunicorn
+
 
